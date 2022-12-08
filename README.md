@@ -3,7 +3,7 @@
 ---
 # ** SARS-CoV-2 Analysis**
 ---
-###### ***Trainers***: [David Kiragu Mwaura] (https://github.com/KIRAGU-MWAURA)
+###### ***Trainers***: [David Mwaura](https://github.com/KIRAGU-MWAURA)
 ---
 
 - [Introduction](#introduction)
